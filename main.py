@@ -8,7 +8,13 @@ def add_numbers(a, b):
     return a + b
 
 def factorial(n):
-    pass
+    """
+    Author: Contributor2
+    Returns factorial of a number
+    """
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
 
 def check_prime(n):
     pass
