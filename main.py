@@ -23,7 +23,9 @@ def fibonacci(n):
     pass
 
 def main():
-    print("Collaborative Coding Simulation")
+    
+    print("Addition:", add_numbers(2,3))
+    print("Factorial:", factorial(5))
 
 if __name__ == "__main__":
     main()
