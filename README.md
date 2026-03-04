@@ -1,1 +1,14 @@
-# collab-coding-group1
+# Collaborative Coding Simulation
+
+## Theme
+Math Utilities
+
+## Objective
+Simulate a collaborative GitHub workflow including branching,
+pull requests, and merge resolution.
+
+## Modules
+Addition
+Factorial
+Prime Check
+Fibonacci
