@@ -1,7 +1,11 @@
 # Starter file for collaborative coding
 
 def add_numbers(a, b):
-    pass
+    """
+    Author: Contributor1
+    Adds two numbers
+    """
+    return a + b
 
 def factorial(n):
     pass
