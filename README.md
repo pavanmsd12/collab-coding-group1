@@ -10,5 +10,4 @@ pull requests, and merge resolution.
 ## Modules
 Addition
 Factorial
-Prime Check
-Fibonacci
+
