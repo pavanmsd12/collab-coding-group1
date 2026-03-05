@@ -16,12 +16,6 @@ def factorial(n):
         return 1
     return n * factorial(n-1)
 
-def check_prime(n):
-    pass
-
-def fibonacci(n):
-    pass
-
 def main():
     
     print("Addition:", add_numbers(2,3))
